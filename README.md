@@ -13,7 +13,7 @@ The purpose is to build some insightful and practical presentations around DevOp
 
 | Presentation | MD TEXT | PDF |
 |--------------|---------|-----|
-| DevOps mindset essentials for Global DevOps Bootcamp | [work in progress](src\presentations) ||
+| DevOps mindset essentials for Global DevOps Bootcamp | [work in progress](src/presentations/devops mindset essentials - gdbc.md) ||
 
 ## Posters
 The purpose is to build some insightful and practical quick reference posters for DevOps.
