@@ -2,6 +2,8 @@
 
 This file represents the sections, slides, and content for the DevOps mindset essentials created for the [GDBC](www.globaldevopsbootcamp.com) event.  
 
+You can find the deck PDF [here](devops-mindset-essentials-gdbc.pdf)
+
 ## INTENT
 
 ---
