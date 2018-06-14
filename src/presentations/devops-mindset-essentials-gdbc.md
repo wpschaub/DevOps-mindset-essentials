@@ -219,7 +219,70 @@ ACCELERATE book
 
 ![Slide 12](_img/devops-mindset-essentials-gdbc/Slide12.PNG)
 
-**TBD**-2018-06-14
+- ASSESSMENT
+  - DevOps X-Ray Assessment
+    https://www.devops-survey.com  
+  - Microsoft DevOps Self-Assessment
+    https://aka.ms/devopsassessment 
+- PEOPLE
+  - Transforming the culture is the biggest challenge. 
+  - All PEOPLE need to buy into the transformation, be kept up to date on all initiatives, understand how their roles will be affected, collaborate transparently, and take responsibility for their features.
+  - Leadership
+    - Vision
+    - Inspirational communications
+    - Intellectual stimulation
+    - Supportive leadership
+    - Personal recognition
+  - Team Culture
+    - Cross-functional collaboration
+    - Climate of learning
+    - Effective use of tools
+    - Everyone is responsible
+  - Culture
+    - Value stream  based  teams
+    - Dogfooding and canaries
+    - Org trained  to  run  the  business  
+    - Everyone empowered  
+    - Everyone responsible and  on  call 
+    - Everyone engaged in  the  team  
+- PROCESS
+  - Key PROCESS Goals
+    - Focus on quality (security, test, deploy,…)
+    - Loosely coupled architectures enable scaling
+    - Lightweight change management process
+    - Automate everything – fast, stable, consistent
+    - Multiple releases per day
+    - Celebrate success as a team and organization!
+  - Live Site Incidents
+    - Track live site incidents
+    - Remediate at root cause level
+  - Lean Management
+    - Limit work in progress (WIP)
+    - Visual (dashboards) work management
+    - Create a production feedback loop
+    - Lightweight (empower, trust) change approvals
+  - Lean Development
+    - Work in small batches (WIP)
+    - Make flow of work visible (dashboards)
+    - Gather & action feedback
+    - Experiment, learn, and influence
+  - Continuous Delivery
+    - Built-in quality
+    - Work in small batches
+    - Use computer for repetitive tasks
+    - Continuous improvement
+    - Everyone is responsible
+- PRODUCTS
+  - PRODUCTS and technology are enablers, allowing teams and architects to focus on outcomes.
+- VALUE
+  - It’s about delighting our customers with VALUE!
+  - Key performance indicators
+    - Deployment frequency
+    - Lead time for changes
+    - Change failure rate
+    - Time to recover 
+
+[source](https://aka.ms/devops), ACCELERATE book, and DevOps Handbook
 
 ## EVIDENCE
 
