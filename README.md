@@ -20,8 +20,10 @@ The purpose is to build some insightful and practical quick reference posters fo
 
 | Presentation | MD TEXT | PDF |
 |--------------|---------|-----|
+| DevOps Process | *planned* || 
+| DevOps Technology | *planned* ||
 | DevOps Habits | *planned* || 
-| DevOps Practices | *planned* ||
+| DevOps Getting Started | *planned* ||
 
 # Contribute
 Contributions to this project are welcome. Here is how you can contribute:  
