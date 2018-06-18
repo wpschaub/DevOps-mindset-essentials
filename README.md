@@ -23,10 +23,10 @@ The purpose is to build some insightful and practical quick reference posters fo
 
 | Presentation | MD TEXT | PDF | PNG |
 |--------------|---------|-----|-----|
-| DevOps Process | *planned* ||| 
-| DevOps Technology | *planned* |||
-| DevOps Habits | *planned* |||
-| DevOps Getting Started | *planned* |||
+| DevOps Process | [md](src/presentations/devops-mindset-essentials-gdbc.md) - slide 9|[pdf](src/posters/devops-mindset-essentials-gdbc-process.pdf)|[png](src/posters/devops-mindset-essentials-gdbc-process.png)| 
+| DevOps Technology | [md](src/presentations/devops-mindset-essentials-gdbc.md) - slide 10|[pdf](src/posters/devops-mindset-essentials-gdbc-technology.pdf)|[png](src/posters/devops-mindset-essentials-gdbc-technology.png)| 
+| DevOps Habits | [md](src/presentations/devops-mindset-essentials-gdbc.md) - slide 11|[pdf](src/posters/devops-mindset-essentials-gdbc-habits.pdf)|[png](src/posters/devops-mindset-essentials-gdbc-habits.png)| 
+| DevOps Getting Started | [md](src/presentations/devops-mindset-essentials-gdbc.md) - slide 12|[pdf](src/posters/devops-mindset-essentials-gdbc-getting-started.pdf)|[png](src/posters/devops-mindset-essentials-gdbc-getting-started.png)| 
 
 > Recommended guidelines to print these posters:
 > - Paper: (1) Satin 160 gsm (Standard) (White) - All Pages 
