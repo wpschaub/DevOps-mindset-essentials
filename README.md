@@ -33,6 +33,14 @@ The purpose is to build some insightful and practical quick reference posters fo
 > - Page Size: Custom (16.5417 x 23.3889)
 > - Final Size: Print on 16.54 x 23.39
 
+# References
+
+The following sources have been used to create the content:
+
+- [DevOps @ Microsoft Story](https://aka.ms/devops)
+- [DevOps Assessment](https://aka.ms/devopsassessment)
+- [The Scence of Lean Software abd DevOps ACCELERATE](https://lccn.loc.gov/2018007766) book, by Nicole Forsgen, Jez Humble, Gene Kim 
+
 # Contribute
 
 Contributions to this project are welcome. Here is how you can contribute:  
