@@ -150,11 +150,11 @@ ACCELERATE book
   - Monitoring of running applications in production environments enables a DevOps team to detect issues as they occur, to mitigate the impact, and to understand the application health. Further monitoring of customer usage helps organizations form hypotheses and quickly validate or disprove experiments. 
 - PRODUCTS
   - ALM
-    - Jira, Mingle, Trello, VSTS
+    - Jira, Mingle, Rally, Trello, VersionOne,VSTS
   - ARTEFACT MNGT.
     - Azure, Bower, DockerHub, Nexus, npm, nuget, VSTS
   - CI
-    - Bamboo, circlci, Jenkins, TeamCity, Travis CI, VSTS
+    - AppVeyor, Bamboo, circlci, Jenkins, TeamCity, Travis CI, VSTS
   - CLOUD
     - AWS, Azure, Google Cloud
   - CONFIG MNGT.
@@ -162,21 +162,21 @@ ACCELERATE book
   - DATABASE
     - DBDeploy, DBmaestro, Redgate
   - DEPLOY
-    - ElasticBox, JuJu, Octopus, Spinnaker, VSTS
+    - BuildMaster, ElasticBox, JuJu, Octopus, servicenow, Spinnaker, VSTS
   - FEATURE FLAGS
     - Feature Switcher, Feature Toggle, FlipIt, LaunchDarkly, NFeature 
   - KNOWLEDGE SHARE
     - Confluence, Markdown, Reddit, VSTS
   - MONITORING
-    - Azure AI, elasticsearch, Nagios, splunk, ZABBIX
+    - Azure AI, dynatrace, elasticsearch, Nagios, New Relic, splunk, ZABBIX
   - ORCHESTRATION
     - Docker Swarm, kubernetes, Mesophere, Mesos
   - SECURITY
     - Whitesource
   - TESTING
-    - Jasmine, JUnit, Karma, QUnit, Selenium, specflow, xUnit
+    - Bugzilla, Gradle, Jasmine, JUnit, Karma, QUnit, Redmine, Selenium, specflow, xUnit
   - VERSION CONTROL
-    - BitBucket, git, GitHub, GitLab, TFVC
+    - BitBucket, git, GitHub, GitLab, source forge, TFVC
 
 [source](https://aka.ms/devopsassessment)
 
