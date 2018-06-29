@@ -6,7 +6,7 @@ Progressive exposure enables us to mitigate impact of changes as they occur, per
 
 It's a practice that not only leads to happy customers, but enables us to create effective and motivated feature teams. 
 
-You're probably asking yourself "what's the catch?" 
+You're probably asking yourself "**what's the catch?**" 
 
 For **ring-based deployments** your primary cost is to manage the production environments covered by the rings with a "production first" mindset. You need to minimise the "blast radius" for each release, monitor each release and mitigate root issues quickly. For **feature flags** you need to manage your feature flag product, manage technical debt, and develop an insight into the implications of simply "flipping a flag".
 

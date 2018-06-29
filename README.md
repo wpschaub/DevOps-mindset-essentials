@@ -13,6 +13,7 @@ Information and views expressed in this content, including URL and other Interne
 The purpose is to collaborate on DevOps articles.
 | Article | DRAFT | PUBLICATION |
 |---------|-------|-------------|
+|DevOps Mindset Essentials|[md](src/articles/devops-mindset-essentials.md)||
 |Progressive exposure comes at a cost|[md](src/articles/progressive-exposure-cost.md)||
 
 ## Presentations
