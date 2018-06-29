@@ -44,6 +44,6 @@ XXX
 
 XXX
 
-Did you know, that we take your feedback on the quick reference poster visuals, posters you would like to see (innovate), and posters that add no value (deprecate)? Let's [collaborate](https://github.com/wpschaub/DevOps-mindset-essentials) to create visualisations and practical guidance that will make you and your users shine!
+Which visuals you would like to see (innovate)? Which visuals add no value (deprecate)? Let's [collaborate](https://github.com/wpschaub/devOps-mindset-essentials) to facilitate visuals and guidance that will help demistify DevOps and make you and your users shine! Users need a positive feeling that they can rely on proven practices, real-world learnings, and that they are not alone.
 
-Enjoy the posters and your next digital transformation!
+Looking forward to your candid and actionable feedback!
