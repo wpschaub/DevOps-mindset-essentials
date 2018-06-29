@@ -60,7 +60,7 @@ In both bases you'll read that there was a "failure under load". It's important 
 
 A solid engineering process and live telemetry enabled us to detect the issues as they occurred, identify the root cause, and mitigate the impact. 
 
-  ![Error 503 Azure Function](_img/progressive-exposure-cost/feature-flag-503.png)
+![Error 503 Azure Function](_img/progressive-exposure-cost/feature-flag-503.png)
 
 > DevOps is a journey of continuous learning and improvement, with a destination you never quite get to!
 
