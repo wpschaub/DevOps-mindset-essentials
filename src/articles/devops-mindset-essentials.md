@@ -2,7 +2,7 @@
 
 Organizations are investing in a move from resource optimized model, based on capital expenses (CAPEX), to a market optimised business model, based on operational expenses (OPEX). It's about **time to market** and continuously **delighting customers** with value! 
 
-Welcome to digital transformations with a **DevOps** mindset! 
+Welcome to digital transformations, embracing a **DevOps** mindset in your oganisation! 
 
 As defined by [Donovan Brown](http://donovanbrown.com/post/what-is-devops), "DevOps is the union of **people**, **process**, and **products** to enable continuous delivery of value to our end users." 
 
@@ -12,9 +12,9 @@ As defined by [Donovan Brown](http://donovanbrown.com/post/what-is-devops), "Dev
 
 None of this is new to you, you're eager to explore DevOps, and probably asking yourself "**how do we get started?**" 
 
-Being a visual person, I created a [presentation and posters](https://github.com/wpschaub/DevOps-mindset-essentials/README.md) to seek answers for the recent [Global DevOps Bootcamp (GDBC)](https://globaldevopsbootcamp.com). It's an annual community driven event, hosted around the globe on the same day, to create an environment in which we can collaboratively explore digital transformations and DevOps insights.
+Being a visual minded person, I created a [presentation with posters](https://github.com/wpschaub/DevOps-mindset-essentials/presentations/devops-mindset-essentials-gdbc.pdf) to seek answers for the recently hosted [Global DevOps Bootcamp (GDBC)](https://globaldevopsbootcamp.com). It's an annual community driven event, hosted around the globe on the same day, to create an environment in which we can collaboratively explore digital transformations and DevOps insights.
 
-Let's explore the four quick reference posters, also referred to as visuals and infographics. For a more in-depth exploration of DevOps, refer to the [DevOps Handbook](XXX), by XXX, XXX, and XXX. 
+Let's explore four of the quick reference [posters](https://github.com/wpschaub/devOps-mindset-essentials/posters), also referred to as visuals and infographics. For a more in-depth discussion of DevOps, refer to the [DevOps Handbook](XXX), by XXX, XXX, and XXX. 
 
 ## Practices
 
@@ -22,9 +22,9 @@ Let's explore the four quick reference posters, also referred to as visuals and 
 
 XXX
 
-## Technologies
+## Technology
 
-![DevOps Technologies](_img/devops-mindset-essentials/devops-mindset-essentials-technology.png)
+![DevOps Technology](_img/devops-mindset-essentials/devops-mindset-essentials-technology.png)
 
 XXX
 
