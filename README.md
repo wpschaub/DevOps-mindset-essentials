@@ -1,3 +1,4 @@
+
 # DevOps-mindset-essentials
 
 # Introduction 
@@ -11,6 +12,7 @@ Information and views expressed in this content, including URL and other Interne
 ## Articles
 
 The purpose is to collaborate on DevOps articles.
+
 | Article | DRAFT | PUBLICATION |
 |---------|-------|-------------|
 |DevOps Mindset Essentials|[md](src/articles/devops-mindset-essentials.md)||
