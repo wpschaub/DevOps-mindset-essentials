@@ -1,6 +1,6 @@
 # Does Progressive Exposure really come at a cost?
 
-In [Deploying new releases: Feature flags or rings](XXXXXX) we introduced feature flags and ring-based deployments, both enablers for the DevOps practice of progressive exposure. 
+In [Deploying new releases: Feature flags or rings](https://opensource.com/article/18/2/feature-flags-ring-deployment-model) we introduced feature flags and ring-based deployments, both enablers for the DevOps practice of progressive exposure. 
 
 Progressive exposure enables us to mitigate impact of changes as they occur, perform iterative experiments, assess features, and get rapid feedback on every change - all in production. Feature flags, for example, enable you to perform short-lived experiments, isolate unfinished work, fine-tune continuous releases, dynamically manage long-lived operational configurations and permissions.   
 
@@ -14,7 +14,7 @@ Let's explore some of the costs of feature flags.
 
 ## Product investment and operational cost
 
-You need to investigate and find the right feature flag solution for your environment. Some important considerations include seamless integration with your DevOps process and products, simple and cost-effective management of flags, ability to perform an emergency roll-back, and support for auditing, fine-tuned permissions and security. For example, if you're managing feature flags down to a specific user, you're likely capturing personal information and entering the realm of the new [Global Data Protection Regulation (GDPR)](XXXXX).
+You need to investigate and find the right feature flag solution for your environment. Some important considerations include seamless integration with your DevOps process and products, simple and cost-effective management of flags, ability to perform an emergency roll-back, and support for auditing, fine-tuned permissions and security. For example, if you're managing feature flags down to a specific user, you're likely capturing personal information and entering the realm of the new [Global Data Protection Regulation (GDPR)](https://ec.europa.eu/commission/priorities/justice-and-fundamental-rights/data-protection/2018-reform-eu-data-protection-rules_en).
 
 **Don't build your own custom feature flag solution!** There are enough options such as the [Feature Toggle](https://github.com/jason-roberts/FeatureToggle), [NFeature](https://github.com/benaston/NFeature), [FeatureSwitcher](https://github.com/mexx/FeatureSwitcher), [Togglz](https://github.com/togglz/togglz), and [FF4J](https://github.com/clun/ff4j) frameworks, and software as a service (SaaS) such as [LaunchDarkly](https://www.launchdarkly.com). With the latter, you delegate maintenance, updates, and infrastructure to your SaaS provider - you can focus your product features and deliver value to your customers.
 
