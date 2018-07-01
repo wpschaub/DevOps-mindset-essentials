@@ -2,12 +2,19 @@
 
 # Introduction 
 
-Welcome to our staging area for DevOps presentations and posters covering the essentials for a DevOps mindset. 
+Welcome to the staging area for DevOps presentations and posters covering the essentials for a DevOps mindset. 
 
-Information and views expressed in this content, including URL and other Internet Web site references, may change without
-notice. You bear the risk of using it.
+Information and views expressed in this content, including URL and other Internet Web site references, may change without notice. You bear the risk of using it.
 
 # Materials
+
+## Articles
+
+The purpose is to collaborate on DevOps articles.
+| Article | DRAFT | PUBLICATION |
+|---------|-------|-------------|
+|DevOps Mindset Essentials|[md](src/articles/devops-mindset-essentials.md)||
+|Progressive exposure comes at a cost|[md](src/articles/progressive-exposure-cost.md)||
 
 ## Presentations
 
