@@ -50,7 +50,7 @@ At a glance the relationship between **activateFF** and **display-logs** is not 
 
 There's one more important cost you need to consider. Flipping a feature flag is simple, the change ripples through production quickly, and your users start using your new feature with excitement. You're happy with the feature you just enabled, but are you confident that you have an understanding of all the side-effects of flipping the flag?
 
-There are two experiences we often share, which demonstrate that even with the best process, we have had really bad days, resulting really bad customer experiences.
+There are two experiences we often share, which demonstrate that even with the best process, we have had really bad days, resulting in really bad customer experiences.
 
 - [A Rough Patch](https://aka.ms/bh-ff-sos) - The team flipped a feature flag at a big marketing event, when Corporate Vice President, Brian Harry, was on stage. As described in the blog post, it didn’t go well. The product experienced unexpected authentication failures and eventually buckled under load.
 
@@ -64,7 +64,7 @@ A solid engineering process and live telemetry enabled us to detect the issues a
 
 > DevOps is a journey of continuous learning and improvement, with a destination you never quite get to!
 
-It's important to learn from these mistakes, explore potential implications, have user empathy, and be transparent about issues, root cause, and resolution of bad days. Users with an insight are typically more tolerant and supportive of your continuous journey of learning and innovation.
+It's important to learn from these mistakes, explore potential implications, have user empathy, and be transparent about issues, root cause, and resolution of bad days as ours. Users with an insight are typically more tolerant and supportive of your continuous journey of learning and innovation.
 
 Once you are cognisant of and manage the risks and costs, your feature teams will be able to progressively expose releases using ring-based deployments and fine-tune them using feature flags. 
 
