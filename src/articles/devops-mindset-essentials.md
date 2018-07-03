@@ -12,7 +12,7 @@ As defined by [Donovan Brown](http://donovanbrown.com/post/what-is-devops), "Dev
 
 None of this is new to you, you're eager to explore DevOps, and probably asking yourself "**how do we get started?**" 
 
-Being a visual minded person, I created a [presentation with posters](https://github.com/wpschaub/DevOps-mindset-essentials/presentations/devops-mindset-essentials-gdbc.pdf) to seek answers for the recently hosted [Global DevOps Bootcamp (GDBC)](https://globaldevopsbootcamp.com). It's an annual community driven event, hosted around the globe on the same day, to create an environment in which we can collaboratively explore digital transformations and DevOps insights.
+Being a visual minded person, I created a [presentation with posters](https://github.com/wpschaub/DevOps-mindset-essentials/blob/master/src/presentations/devops-mindset-essentials-gdbc.pdf) to seek answers for the recently hosted [Global DevOps Bootcamp (GDBC)](https://globaldevopsbootcamp.com). It's an annual community driven event, hosted around the globe on the same day, to create an environment in which we can collaboratively explore digital transformations and DevOps insights.
 
 Let's explore four of the quick reference [posters](https://github.com/wpschaub/devOps-mindset-essentials/posters), also referred to as visuals and infographics. For a more in-depth discussion of DevOps, refer to the [DevOps Handbook](http://a.co/92KSNxJ), by Gene Kim, Jez Humble, Patrick Debois, and John Willis. 
 
