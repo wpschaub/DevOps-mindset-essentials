@@ -42,11 +42,21 @@ Based on the [Moving 65,000 engineers to DevOps with VSTS](https://www.slideshar
 
 For Agile++, **Customer Focused** is part of our quest for delighted customers and our obsession for customer value. You need to actively listen to your users, progressively enable and disable features, perform continuous experiments, and measure key performance indicators. It's important to use all available feedback to maximise learnings and influence value. **Shift Left** encourages reviews, validations, and approvals for both testing ans security as early as possible in the feature delivery cycle to drive quality and a fail-fast mindset. When technical debt exceeds a predefined limit (for example a 5 bugs per engineer bug cap) that you're comfortable with, feature teams should encouraged to suspend feature work until the technical debt is paid down. **Team Autonomy and Enterprise Alignment** is concerned with how we build what, and why. There's a need for a common cadence, or heartbeat, across your organization to enable all your leadership and feature teams to collaborate transparently and effectively. A core learning is that the most effective feature teams are those that own a feature from idea to production, with autonomy how they develop and support their features.
 
-For your DevOps, **production first** is a mindset that differentiate how features and bugs are handled during development, testing, and operational support. Everything should be automated, versioned, and fined tuned in production. Lean on [ring based deployments and rings](https://opensource.com/article/18/2/feature-flags-ring-deployment-model) to limit your blast radius of feature changes in production, remdiate all issus at root cause level, and remember to be transparent about issues, root cause, and resolution. As a user I'll be far more understanding if I have an insight into issues. **Infrastructure as a flexible resource** is a new buzzword that describes how solution architectures are adapted to the cloud, containerisation, and microservices. It's important to adopt a pragmatic transformation, in a way that makes sense for your organisation, goals, products, and culture. As with the previous habits, it's important to favour autonomy over a descriptive architecture, and not to adopt everything all at once. 
+For your DevOps, **production first** is a mindset that differentiate how features and bugs are handled during development, testing, and operational support. Everything should be automated, versioned, and fined tuned in production. Lean on [ring based deployments and rings](https://opensource.com/article/18/2/feature-flags-ring-deployment-model) to limit your blast radius of feature changes in production, remdiate all issus at root cause level, and remember to be transparent about issues, root cause, and resolution. As a user I'll be far more understanding if I have an insight into issues. **Infrastructure as a flexible resource** is a new buzzword that describes how solution architectures are adapted to the cloud, containerisation, and microservices. It's important to adopt a pragmatic transformation, in a way that makes sense for your organisation, goals, products, and culture. As with the previous habits, it's important to favour autonomy over a descriptive architecture, and not to transform everything all at once. 
 
 ## Getting Started
 
+The last visualization we'll cover pulls all of the above together and proposes five steps to getting started with DevOps. Whether you tackle the steps all at once ("big bang"), step-by-step ("peel an onion"), or gradually innovate your value chain across all steps ("broad spectrum innovation") is your choice. As before, just be pragmatic!
+
 ![DevOps Getting Started](_img/devops-mindset-essentials/devops-mindset-essentials-getting-started.png)
+
+Personally, I prefer to start with step one, **assessment**, then tackle the remainder based on the results and identified value-chain hotspots and bottlenecks. 
+
+- **Assessment** XXX
+- **People** XXX
+- **Process** XXX
+- **Products** XXX
+- **Value** XXX
 
 XXXTBDXXX
 
