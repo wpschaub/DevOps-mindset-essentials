@@ -20,7 +20,7 @@ The purpose is to collaborate on DevOps articles.
 
 ## Presentations
 
-The purpose is to build some insightful and practical presentations around DevOps.
+Build some insightful and practical presentations around DevOps.
 
 | Presentation | CONTENT | PDF |
 |--------------|---------|-----|
@@ -28,7 +28,7 @@ The purpose is to build some insightful and practical presentations around DevOp
 
 ## Posters
 
-The purpose is to build some insightful and practical quick reference posters for DevOps.
+Build some insightful and practical quick reference posters for DevOps.
 
 | Presentation | MD TEXT | PDF | PNG |
 |--------------|---------|-----|-----|
