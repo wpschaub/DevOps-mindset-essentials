@@ -1,5 +1,9 @@
 # Does Progressive Exposure really come at a cost?
 
+>
+> THIS IS A DRAFT - TECHNICAL AND COPY EDITING PENDING 
+>
+
 In [Deploying new releases: Feature flags or rings](https://opensource.com/article/18/2/feature-flags-ring-deployment-model) we introduced feature flags and ring-based deployments, both enablers for the DevOps practice of progressive exposure. 
 
 Progressive exposure enables us to mitigate impact of changes as they occur, perform iterative experiments, assess features, and get rapid feedback on every change - all in production. Feature flags, for example, enable you to perform short-lived experiments, isolate unfinished work, fine-tune continuous releases, dynamically manage long-lived operational configurations and permissions.   
