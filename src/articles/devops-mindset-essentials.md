@@ -46,17 +46,17 @@ For your DevOps, **production first** is a mindset that differentiate how featur
 
 ## Getting Started
 
-The last visualization we'll cover pulls all of the above together and proposes five steps to getting started with DevOps. Whether you tackle the steps all at once ("big bang"), step-by-step ("peel an onion"), or gradually innovate your value chain across all steps ("broad spectrum innovation") is your choice. As before, just be pragmatic!
+The last visualization we'll cover in this overview, pulls together all of the above and proposes five steps to getting started with DevOps. Whether you tackle the steps all at once ("big bang"), step-by-step ("peel an onion"), or gradually innovate your value chain across all steps ("broad spectrum innovation") is your choice. As before, just be pragmatic!
 
 ![DevOps Getting Started](_img/devops-mindset-essentials/devops-mindset-essentials-getting-started.png)
 
 Personally, I prefer to start with step one, **assessment**, then tackle the remainder based on the results and identified value-chain hotspots and bottlenecks. 
 
-- **Assessment** XXX
-- **People** XXX
-- **Process** XXX
-- **Products** XXX
-- **Value** XXX
+- An **Assessment** gives you a benchmark of your DevOps mindset and performance against the rest of the industry. It's important to nderstand where you're doing well and where investment will help you transform to the next level. Both the [Dora](https://www.devops-survey.com/) and [Microsoft](https://aka.ms/devopsassessment) DevOps Assessments are great starting points.       
+- **People** and culture is your biggest challenge. Everyone needs to buy into the transformation, understand how they will be affected, encourage transparency, be engaged, and take full responsibility for their value streams. This incudes the leadership, who need to be supportive, inspirational, empowering, and drive a clear vision. You'll make or break the transformation as a team!
+- **Process** is your engineering system that enables the teams to manage live site incidents, use lean management and development, and continuously deliver value. A common engineering system will introduce consistency, empower feature teams, and enable and encourage everyone to support and contribute each other. Your top process goals should include a focus on quality, a loosely coupled architecture to enable scaling, lightweight management, automation, multiple releases per day, and celebration of success as a team and as an organization.  
+- **Products** are the easiest link in the chain. They enable everyone to focus on what's important - delivery of value to the end users!
+- **Value** is all about delighting users! Key performannce indicators to measure value include deployment frequency, lead time for changes, change failure rate, and time to recover.   
 
 XXXTBDXXX
 
