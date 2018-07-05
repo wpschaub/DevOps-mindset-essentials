@@ -1,7 +1,7 @@
 # Visualizing a DevOps Essentials Mindset
 
 >
-> THIS IS A DRAFT - TECHNICAL AND COPY EDITING PENDING
+> THIS IS AN EARLY DRAFT - TECHNICAL AND COPY EDITING PENDING!
 >
 
 Organizations are investing in a move from resource optimized model, based on capital expenses (CAPEX), to a market optimised business model, based on operational expenses (OPEX). It's about **time to market** and continuously **delighting customers** with value! 
