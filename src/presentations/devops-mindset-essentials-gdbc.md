@@ -150,7 +150,7 @@ ACCELERATE book
   - Monitoring of running applications in production environments enables a DevOps team to detect issues as they occur, to mitigate the impact, and to understand the application health. Further monitoring of customer usage helps organizations form hypotheses and quickly validate or disprove experiments. 
 - PRODUCTS
   - ALM
-    - Jira, Mingle, Rally, Trello, VersionOne,VSTS
+    - Jira, Mingle, Rally, Trello, VersionOne, VSTS
   - ARTEFACT MNGT.
     - Azure, Bower, DockerHub, Nexus, npm, nuget, VSTS
   - CI
