@@ -8,7 +8,7 @@ In [Deploying new releases: Feature flags or rings](https://opensource.com/artic
 
 Progressive exposure enables us to mitigate impact of changes as they occur, perform iterative experiments, assess features, and get rapid feedback on every change - all in production. Feature flags, for example, enable you to perform short-lived experiments, isolate unfinished work, fine-tune continuous releases, dynamically manage long-lived operational configurations and permissions.   
 
-It's a practice that not only leads to happy customers, but enables us to create effective and motivated feature teams. 
+It's a practice, which not only leads to happy customers, but enables us to create effective and motivated feature teams. 
 
 You're probably asking yourself "**what's the catch?**" 
 
@@ -60,7 +60,7 @@ There are two experiences we often share, which demonstrate that even with the b
 
 - [How we learned about the 503 meltdown](https://aka.ms/vsar-ff-sos) - The team enabled feature flags in one of their most popular extensions. Users experienced 503 errors, followed by severe performance issues, and eventually the Azure Functions handling feature flags failed under load. 
 
-In both bases you'll read that there was a "failure under load". It's important to flip a feature flag in a Canary or Early Adopter environment and simulate anticipated loads a few days before flipping the feature flag for all users. This is particularly true for big marketing events where first impressions count.
+In both cases you'll read that there was a "failure under load". It's important to flip a feature flag in a Canary or Early Adopter environment and simulate anticipated loads a few days before flipping the feature flag for all users. This is particularly true for big marketing events where first impressions count.
 
 A solid engineering process and live telemetry enabled us to detect the issues as they occurred, identify the root cause, and mitigate the impact. 
 
@@ -70,7 +70,7 @@ A solid engineering process and live telemetry enabled us to detect the issues a
 
 It's important to learn from these mistakes, explore potential implications, have user empathy, and be transparent about issues, root cause, and resolution of bad days as ours. Users with an insight are typically more tolerant and supportive of your continuous journey of learning and innovation.
 
-Once you are cognisant of and manage the risks and costs, your feature teams will be able to progressively expose releases using ring-based deployments and fine-tune them using feature flags. 
+Once you are cognizant of and manage the risks and costs, your feature teams will be able to progressively expose releases using ring-based deployments and fine-tune them using feature flags. 
 
 Enjoy observing motivated feature teams and more importantly, happy customers!
 
