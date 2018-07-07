@@ -36,7 +36,7 @@ Here's a companion of the **practices** poster, focused on **technology**.
 
 **Version control** manages versions of your application, configuration, infrastructure, and other code. It enables team collaboration and monitoring activities, such as deployments. Top performers use topic branches for short-term isolation, continuously merge changes into master, review and audit using Git pull requests, and version everything. **Testing** must be viewed as a continuous activity, embedded into both the developer workflow and the **continuous integration** (CI) and **continuous delivery** (CD) pipeline. The **Cloud** enables you to effectively provision your **infrastructure** and move as fast as they need. Lastly, **monitoring** enables you to form a hypothesis, validate or disprove experiments, proactively detect issues as they occur, and understand the application health.
 
-The blue bar on the right of the poster lists **products** to consider when you're investigation technology for your development, production, common engineering, and other environments. Provide feedback on the listed products and regularly update your poster to always have the latest of a volatile and opinionated part of the visual! 
+The black bar on the right of the poster lists **products** to consider when you're investigation technology for your development, production, common engineering, and other environments. Provide feedback on the listed products and regularly update your poster to have the latest version of a volatile and opinionated part of the visual! 
 
 ## Habits
 
@@ -56,8 +56,14 @@ The last visualization we'll peruse in this overview, combines all of the above,
 
 I prefer to start with the **assessment**, to help us identify key areas which can be improved.  
 
-- **Assessments** give you a benchmark of your DevOps mindset and performance against the rest of the industry. It's important to understand where you're doing well and where investment will help you transform to the next level. Both the [Dora](https://www.devops-survey.com/) and [Microsoft](https://aka.ms/devopsassessment) DevOps Assessments are great starting points.       
+- **Assessments** give you a benchmark of your DevOps mindset and performance against the rest of the industry. It's important to understand where you're doing well and where investment will help you transform to the next level. Both the [Dora](https://www.devops-survey.com/) and [Microsoft](https://aka.ms/devopsassessment) DevOps Assessments are great starting points. In addition to the mentioned assessments, you should also gather metrics that can be used as a base to measure progress. For example, deployment frequency, lead time for changes, mean time to repair, and change failure rate.   
+
 - **People** and culture is your biggest challenge. Everyone needs to buy into the transformation, understand how they will be affected, encourage transparency, be engaged, and take full responsibility for their value streams. This includes the leadership, who need to be supportive, inspirational, empowering, and drive a clear vision. You'll make or break the transformation as a team!
+
+>
+> Without committed **people** and an experimental **culture**, the rest of the DevOps transformation journey is futile!
+>
+
 - **Process** is your engineering system that enables the teams to manage live site incidents, use lean management and development, and continuously deliver value. A common engineering system will introduce consistency, empower feature teams, and enable and encourage everyone to support and contribute each other. Your top process goals should include a focus on quality, a loosely coupled architecture to enable scaling, lightweight management, automation, multiple releases per day, and celebration of success as a team and as an organization.  
 - **Products** are the easiest link in the chain. They enable everyone to focus on what's important - delivery of value to the end users!
 - **Value** is all about delighting users! Key performance indicators to measure value include deployment frequency, lead time for changes, change failure rate, and time to recover.   
