@@ -228,50 +228,48 @@ ACCELERATE book
   - Transforming the culture is the biggest challenge. 
   - All PEOPLE need to buy into the transformation, be kept up to date on all initiatives, understand how their roles will be affected, collaborate transparently, and take responsibility for their features.
   - Leadership
-    - Vision
+    - Accept failures as normal
     - Inspirational communications
-    - Intellectual stimulation
-    - Supportive leadership
+    - Intellectual stimulation 
+    - Own the vision
     - Personal recognition
-  - Team Culture
-    - Cross-functional collaboration
+    - Supportive leadership
+   - Culture
     - Climate of learning
+    - Cross-functional collaboration 
+    - Dogfooding and canary environments
     - Effective use of tools
-    - Everyone is responsible
-  - Culture
-    - Value stream  based  teams
-    - Dogfooding and canaries
-    - Org trained  to  run  the  business  
     - Everyone empowered  
-    - Everyone responsible and  on  call 
-    - Everyone engaged in  the  team  
+    - Everyone responsible and on call 
+    - Trained to run the business  
+    - Value stream-based teams
 - PROCESS
   - Key PROCESS Goals
-    - Focus on quality (security, test, deploy,…)
-    - Loosely coupled architectures enable scaling
-    - Lightweight change management process
     - Automate everything – fast, stable, consistent
-    - Multiple releases per day
     - Celebrate success as a team and organization!
+    - Focus on quality (security, test, deploy,…)
+    - Lightweight change management process
+    - Loosely coupled architectures enable scaling
+    - Multiple releases per day
   - Live Site Incidents
     - Track live site incidents
     - Remediate at root cause level
   - Lean Management
-    - Limit work in progress (WIP)
-    - Visual (dashboards) work management
     - Create a production feedback loop
     - Lightweight (empower, trust) change approvals
+    - Limit work in progress (WIP)
+    - Visual (dashboards) work management
   - Lean Development
-    - Work in small batches (WIP)
-    - Make flow of work visible (dashboards)
-    - Gather & action feedback
     - Experiment, learn, and influence
+    - Gather & action feedback
+    - Make flow of work visible (dashboards)
+    - Work in small batches (WIP)
   - Continuous Delivery
-    - Built-in quality
-    - Work in small batches
-    - Use computer for repetitive tasks
+    - Built-in quality 
     - Continuous improvement
     - Everyone is responsible
+    - Use computer for repetitive tasks
+    - Work in small batches
 - PRODUCTS
   - PRODUCTS and technology are enablers, allowing teams and architects to focus on outcomes.
 - VALUE
