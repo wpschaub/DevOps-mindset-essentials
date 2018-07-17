@@ -48,7 +48,7 @@ The following sources have been used to create the content:
 
 - [DevOps @ Microsoft Story](https://aka.ms/devops)
 - [DevOps Assessment](https://aka.ms/devopsassessment)
-- [The Science of Lean Software abd DevOps ACCELERATE](https://lccn.loc.gov/2018007766) book, by Nicole Forsgen, Jez Humble, Gene Kim 
+- [The Science of Lean Software and DevOps ACCELERATE](https://lccn.loc.gov/2018007766) book, by Nicole Forsgen, Jez Humble, Gene Kim 
 
 # Contribute
 
