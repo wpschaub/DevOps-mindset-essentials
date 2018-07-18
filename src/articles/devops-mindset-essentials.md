@@ -58,14 +58,16 @@ I prefer to start with the **assessment**, to help us identify key areas which c
 
 - **Assessments** give you a benchmark of your DevOps mindset and performance against the rest of the industry. It's important to understand where you're doing well and where investment will help you transform to the next level. Both the [Dora](https://www.devops-survey.com/) and [Microsoft](https://aka.ms/devopsassessment) DevOps Assessments are great starting points. In addition to the mentioned assessments, you should also gather metrics that can be used as a base to measure progress. For example, deployment frequency, lead time for changes, mean time to repair, and change failure rate.   
 
-- **People** and culture is your biggest challenge. Everyone needs to buy into the transformation, understand how they will be affected, encourage transparency, be engaged, and take full responsibility for their value streams. This includes the leadership, who need to be supportive, inspirational, empowering, and drive a clear vision. You'll make or break the transformation as a team!
+- **People** and culture is your biggest challenge. Everyone needs to buy into the transformation, understand how they will be affected, encourage transparency, be engaged, and take full responsibility for their value streams. This includes the leadership, who need to be supportive, inspirational, empowering, and drive a clear vision. You'll make or break the transformation as a team! Read [A 4-step plan for creating teams that aren't afraid to fail](https://opensource.com/open-organization/18/7/culture-of-experimentation-in-4-steps), by Catherine Louis, for an insight into how a team will meet its goals thrugh experimentation, failure, leraning, and adjusting.
 
 >
 > Without committed **people** and an experimental **culture**, the rest of the DevOps transformation journey is futile!
 >
 
 - **Process** is your engineering system that enables the teams to manage live site incidents, use lean management and development, and continuously deliver value. A common engineering system will introduce consistency, empower feature teams, and enable and encourage everyone to support and contribute each other. Your top process goals should include a focus on quality, a loosely coupled architecture to enable scaling, lightweight management, automation, multiple releases per day, and celebration of success as a team and as an organization.  
+
 - **Products** are the easiest link in the chain. They enable everyone to focus on what's important - delivery of value to the end users!
+
 - **Value** is all about delighting users! Key performance indicators to measure value include deployment frequency, lead time for changes, change failure rate, and time to recover.   
 
 Whether you tackle the steps all at once ("big bang"), step-by-step ("peel an onion"), or gradually innovate your value chain across all steps ("broad spectrum innovation") is your choice. Again, just be pragmatic!
