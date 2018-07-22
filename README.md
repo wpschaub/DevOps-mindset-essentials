@@ -15,8 +15,8 @@ The purpose is to collaborate on DevOps articles.
 
 | Article | DRAFT | PUBLICATION |
 |---------|-------|-------------|
-|DevOps Mindset Essentials|[md](src/articles/devops-mindset-essentials.md)| Scheduled for August 16 |
-|Progressive exposure comes at a cost|[md](src/articles/progressive-exposure-cost.md)| Scheduled for July 26 |
+|DevOps Mindset Essentials|[md](src/articles/devops-mindset-essentials.md)| opensource.com - scheduled for August 16 |
+|Progressive exposure comes at a cost|[md](src/articles/progressive-exposure-cost.md)| opensource.com - scheduled for July 26 |
 
 ## Presentations
 
