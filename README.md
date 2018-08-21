@@ -15,7 +15,7 @@ The purpose is to collaborate on DevOps articles.
 
 | Article | DRAFT | PUBLICATION |
 |---------|-------|-------------|
-|Start by assessing your DevOps mindset and performance||[blog](https://willys-cave.ghost.io/start-by-assessing-your-devops-mindset-and-performance/)|
+|Start by assessing your DevOps mindset and performance||[willys-cave.ghost.io blog](https://willys-cave.ghost.io/start-by-assessing-your-devops-mindset-and-performance/)|
 |DevOps Mindset Essentials|[md](src/articles/devops-mindset-essentials.md)| [opensource.com](https://opensource.com/article/18/8/visualizing-devops-essentials-mindset) |
 |Progressive exposure comes at a cost|[md](src/articles/progressive-exposure-cost.md)| [opensource.com](https://opensource.com/article/18/7/does-progressive-exposure-really-come-cost) |
 
