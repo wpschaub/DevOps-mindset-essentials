@@ -33,7 +33,7 @@ Build some insightful and practical quick reference posters for DevOps.
 
 | Presentation | MD TEXT | PDF | PNG |
 |--------------|---------|-----|-----|
-| DevOps Process | [md](src/presentations/devops-mindset-essentials-gdbc.md) - slide 9|[pdf](src/posters/devops-mindset-essentials-gdbc-practices.pdf)|[png](src/posters/devops-mindset-essentials-gdbc-practices.png)| 
+| DevOps Practices | [md](src/presentations/devops-mindset-essentials-gdbc.md) - slide 9|[pdf](src/posters/devops-mindset-essentials-gdbc-practices.pdf)|[png](src/posters/devops-mindset-essentials-gdbc-practices.png)| 
 | DevOps Technology | [md](src/presentations/devops-mindset-essentials-gdbc.md) - slide 10|[pdf](src/posters/devops-mindset-essentials-gdbc-technology.pdf)|[png](src/posters/devops-mindset-essentials-gdbc-technology.png)| 
 | DevOps Habits | [md](src/presentations/devops-mindset-essentials-gdbc.md) - slide 11|[pdf](src/posters/devops-mindset-essentials-gdbc-habits.pdf)|[png](src/posters/devops-mindset-essentials-gdbc-habits.png)| 
 | DevOps Getting Started | [md](src/presentations/devops-mindset-essentials-gdbc.md) - slide 12|[pdf](src/posters/devops-mindset-essentials-gdbc-getting-started.pdf)|[png](src/posters/devops-mindset-essentials-gdbc-getting-started.png)| 
