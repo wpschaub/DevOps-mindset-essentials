@@ -28,7 +28,7 @@ Build some insightful and practical presentations around DevOps.
 
 ## Posters
 
-Build some insightful and practical quick reference posters for DevOps.
+Build some insightful and practical quick reference posters for DevOps. Find these and other quick reference posters [here](https://www.github.com/wpschaub/quick-reference-posters).
 
 | Presentation | MD TEXT | PDF | PNG |
 |--------------|---------|-----|-----|
