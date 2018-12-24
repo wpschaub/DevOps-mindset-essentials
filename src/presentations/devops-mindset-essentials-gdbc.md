@@ -226,7 +226,7 @@ ACCELERATE book
     https://aka.ms/devopsassessment 
 - PEOPLE
   - Transforming the culture is the biggest challenge. 
-  - All PEOPLE need to buy into the transformation, be kept up to date on all initiatives, understand how their roles will be affected, collaborate transparently, and take responsibility for their features.
+  - PEOPLE need to buy into the transformation, be kept up to date on all initiatives, understand how their roles will be affected, collaborate transparently, and take responsibility for their features.
   - Leadership
     - Accept failures as normal
     - Inspirational communications
@@ -273,7 +273,7 @@ ACCELERATE book
 - PRODUCTS
   - PRODUCTS and technology are enablers, allowing teams and architects to focus on outcomes.
 - VALUE
-  - It’s about delighting our customers with VALUE!
+  - It’s about delighting our stakeholders with VALUE!
   - Key performance indicators
     - Deployment frequency
     - Lead time for changes
